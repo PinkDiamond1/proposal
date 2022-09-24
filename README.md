@@ -1,4 +1,5 @@
 # Kovan - Stable Ethereum Public Testnet
+https://kovan.etherscan.io/address/0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
 
 Kovan is a new testnet for Ethereum using Parity's Proof of Authority consensus engine, with benefits over [Ropsten](https://blog.ethereum.org/2016/11/20/from-morden-to-ropsten/):
 
